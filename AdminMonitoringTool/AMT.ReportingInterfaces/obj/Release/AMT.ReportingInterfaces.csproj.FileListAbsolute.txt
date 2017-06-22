@@ -1,0 +1,4 @@
+F:\Project Reporting\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Release\AMT.ReportingInterfaces.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Release\AMT.ReportingInterfaces.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Release\AMT.ReportingInterfaces.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Release\AMT.ReportingInterfaces.pdb

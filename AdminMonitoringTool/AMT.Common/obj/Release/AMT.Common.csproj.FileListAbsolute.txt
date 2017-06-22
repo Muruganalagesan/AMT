@@ -1,0 +1,1 @@
+F:\Project Reporting\AdminMonitoringTool\AMT.Common\obj\Release\AMT.Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+F:\Project Reporting\AdminMonitoringTool\AMT.DataAccess\obj\Release\AMT.DataAccess.csprojResolveAssemblyReference.cache

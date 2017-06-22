@@ -1,0 +1,2 @@
+﻿Create Table [Service]([AcceptPause] nvarchar(10), [AcceptStop] nvarchar(10) ,[Caption] nvarchar(50), [Description] nvarchar(255), [DesktopInteract]nvarchar(5),[DisplayName]nvarchar(255),[Name] nvarchar(255),[PathName] nvarchar(max),[ProcessId] nvarchar(255),[ServiceType] nvarchar(10) ,[Started]nvarchar(10),[StartMode]nvarchar(10) ,[StartName] nvarchar(255),[State]nvarchar(10),[Status]nvarchar(10),[SystemName] nvarchar(255))
+create table[Test](id varchar(50));

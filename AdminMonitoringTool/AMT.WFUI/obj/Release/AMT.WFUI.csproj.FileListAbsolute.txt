@@ -1,0 +1,13 @@
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.AMTMain.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.UI.ConnectionManager.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.UI.DomainScanner.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.UI.ExportDialog.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.UI.RealTimeMonitoring.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.UI.ReportPreview.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.ReportWindow.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.Properties.Resources.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.UI.SettingsManager.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.Splash.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.UserCredentials.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.csproj.GenerateResource.Cache
+F:\Project Reporting\AdminMonitoringTool\AMT.WFUI\obj\Release\AMT.WFUI.csprojResolveAssemblyReference.cache

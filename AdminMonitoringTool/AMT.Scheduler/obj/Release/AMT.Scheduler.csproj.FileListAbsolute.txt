@@ -1,0 +1,4 @@
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Release\AMT.Scheduler.AMTSchedule.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Release\AMT.Scheduler.Properties.Resources.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Release\AMT.Scheduler.csproj.GenerateResource.Cache
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Release\AMT.Scheduler.csprojResolveAssemblyReference.cache

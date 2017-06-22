@@ -1,0 +1,154 @@
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.exe
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\log4net.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\DocumentFormat.OpenXml.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csprojResolveAssemblyReference.cache
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.AMTSchedule.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.Properties.Resources.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csproj.GenerateResource.Cache
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.exe
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.exe
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\log4net.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.pdb
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csprojResolveAssemblyReference.cache
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.AMTSchedule.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.Properties.Resources.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csproj.GenerateResource.Cache
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.exe
+F:\Project Reporting\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.exe
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\log4net.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csprojResolveAssemblyReference.cache
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.AMTSchedule.resources
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.Properties.Resources.resources
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csproj.GenerateResource.Cache
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.exe
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.pdb
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.exe
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.pdb
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.dll
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.dll
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.dll
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.dll
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.dll
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\log4net.dll
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.dll
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.pdb
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.pdb
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.pdb
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.pdb
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.pdb
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.pdb
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csprojResolveAssemblyReference.cache
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.AMTSchedule.resources
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.Properties.Resources.resources
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csproj.GenerateResource.Cache
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.exe
+F:\Project Reporting\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.exe
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\log4net.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csprojResolveAssemblyReference.cache
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.AMTSchedule.resources
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.Properties.Resources.resources
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csproj.GenerateResource.Cache
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.exe
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.exe
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\log4net.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.pdb
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csprojResolveAssemblyReference.cache
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.AMTSchedule.resources
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.Properties.Resources.resources
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csproj.GenerateResource.Cache
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.exe
+D:\DotNet\192.16.8.0.20\192.16.8.0.20\RADMIN\RADMIN\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.pdb
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.exe
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Scheduler.pdb
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.dll
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.dll
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.dll
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.dll
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.dll
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\log4net.dll
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.dll
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\DocumentFormat.OpenXml.dll
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Common.pdb
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Logger.pdb
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.Manager.pdb
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.ReportingInterfaces.pdb
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.CredentialManagement.pdb
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\bin\Debug\AMT.DataAccess.pdb
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csprojResolveAssemblyReference.cache
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.AMTSchedule.resources
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.Properties.Resources.resources
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.csproj.GenerateResource.Cache
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.exe
+C:\DUMP\GITHUB\AdminMonitoringToolOrginalSource\AdminMonitoringTool\AMT.Scheduler\obj\Debug\AMT.Scheduler.pdb

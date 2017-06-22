@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{35C52D2D-DD8F-4EF1-B714-2B46510A62AB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AMT.ReportingInterfaces</RootNamespace>
+    <AssemblyName>AMT.ReportingInterfaces</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBConnectionInfo.cs" />
+    <Compile Include="DBProfileInfo.cs" />
+    <Compile Include="Export\ExportInfo.cs" />
+    <Compile Include="Export\IExport.cs" />
+    <Compile Include="Export\ReportInfo.cs" />
+    <Compile Include="ProfileConnectionInfo.cs" />
+    <Compile Include="CredentialInfo.cs" />
+    <Compile Include="EnumHelper.cs" />
+    <Compile Include="NetWorkInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportExportInfo.cs" />
+    <Compile Include="ReportInfo.cs" />
+    <Compile Include="ReportUIInit.cs" />
+    <Compile Include="ScheduleTaskInfo.cs" />
+    <Compile Include="ShareInfo.cs" />
+    <Compile Include="MachineInfo.cs" />
+    <Compile Include="WMI\BiosInfo.cs" />
+    <Compile Include="WMI\BootConfigInfo.cs" />
+    <Compile Include="WMI\CompSysInfo.cs" />
+    <Compile Include="WMI\EnvironmentInfo.cs" />
+    <Compile Include="WMI\GroupAccountInfo.cs" />
+    <Compile Include="WMI\NetworkAdapterInfo.cs" />
+    <Compile Include="WMI\NetworkLoginProfileInfo.cs" />
+    <Compile Include="WMI\OperatingSystemInfo.cs" />
+    <Compile Include="WMI\ProductInfo.cs" />
+    <Compile Include="WMI\QuickFixInfo.cs" />
+    <Compile Include="WMI\RemoteActionInfo.cs" />
+    <Compile Include="WMI\ServiceInfo.cs" />
+    <Compile Include="WMI\UserAccountInfo.cs" />
+    <Compile Include="WMI\WMIConnectionInfo.cs" />
+    <Compile Include="WMI\LogicalDiskInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

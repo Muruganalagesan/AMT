@@ -1,0 +1,5 @@
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\obj\Debug\AMTLogger.csprojResolveAssemblyReference.cache
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

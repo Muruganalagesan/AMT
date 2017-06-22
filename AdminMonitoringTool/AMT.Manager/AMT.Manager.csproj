@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CB04263D-9E9F-4206-B342-B40D8CE4D58F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AMT.Manager</RootNamespace>
+    <AssemblyName>AMT.Manager</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="InitailizeApp.cs" />
+    <Compile Include="WMIManagers\IWMICollect.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WMIManagers\InitializeWMICollection.cs" />
+    <Compile Include="WMIManagers\WMIBiosManager.cs" />
+    <Compile Include="WMIManagers\WMIBootConfigManager.cs" />
+    <Compile Include="WMIManagers\WMICompSysManager.cs" />
+    <Compile Include="WMIManagers\WMIConnectivityManager.cs" />
+    <Compile Include="WMIManagers\WMIEnvironmentManager.cs" />
+    <Compile Include="WMIManagers\WMIGroupManager.cs" />
+    <Compile Include="WMIManagers\WMILogicalDiskManager.cs" />
+    <Compile Include="WMIManagers\WMIManagerBase.cs" />
+    <Compile Include="WMIManagers\WMINetworkAdapterManager.cs" />
+    <Compile Include="WMIManagers\WMINetworkLoginProfile.cs" />
+    <Compile Include="WMIManagers\WMIOSManager.cs" />
+    <Compile Include="WMIManagers\WMIProductManager.cs" />
+    <Compile Include="WMIManagers\WMIQuickFixManager.cs" />
+    <Compile Include="WMIManagers\WMIServiceManager.cs" />
+    <Compile Include="WMIManagers\WMIShareManagercs.cs" />
+    <Compile Include="WMIManagers\WMIShareNTFSManager.cs" />
+    <Compile Include="WMIManagers\WMIUsersManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AMT.Common\AMT.Common.csproj">
+      <Project>{da50aaa5-bf54-4a97-9c6b-5ee4e4cf7c7c}</Project>
+      <Name>AMT.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AMT.DataAccess\AMT.DataAccess.csproj">
+      <Project>{7003b199-8338-4d76-95ad-eb67548c2285}</Project>
+      <Name>AMT.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AMT.Logger\AMT.Logger.csproj">
+      <Project>{1278633b-c447-4af4-82bd-97c2c01f969a}</Project>
+      <Name>AMT.Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AMT.ReportingInterfaces\AMT.ReportingInterfaces.csproj">
+      <Project>{35c52d2d-dd8f-4ef1-b714-2b46510a62ab}</Project>
+      <Name>AMT.ReportingInterfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

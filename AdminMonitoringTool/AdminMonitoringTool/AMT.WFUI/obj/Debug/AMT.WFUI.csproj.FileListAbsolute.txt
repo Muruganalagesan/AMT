@@ -1,0 +1,87 @@
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.csprojResolveAssemblyReference.cache
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.AMTMain.resources
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.ReportWindow.resources
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.Properties.Resources.resources
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.Splash.resources
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.csproj.GenerateResource.Cache
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFUI.exe
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFUI.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Common.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Logger.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Manager.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.ReportingInterfaces.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.CredentialManagement.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\log4net.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.DataAccess.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Common.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Logger.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Manager.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.CredentialManagement.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.DataAccess.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.exe
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\bin\Debug\DocumentFormat.OpenXml.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UserCredentials.resources
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.csprojResolveAssemblyReference.cache
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.AMTMain.resources
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.ReportWindow.resources
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.Properties.Resources.resources
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.Splash.resources
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UserCredentials.resources
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.csproj.GenerateResource.Cache
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFUI.exe
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFUI.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Common.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Logger.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Manager.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.ReportingInterfaces.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.CredentialManagement.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\log4net.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.DataAccess.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Common.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Logger.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Manager.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.ReportingInterfaces.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.CredentialManagement.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.DataAccess.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.exe
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UI.ExportDialog.resources
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFStatusUpdater.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFStatusUpdater.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UI.ConnectionManager.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFUI.exe
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFUI.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Common.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Logger.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Manager.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.ReportingInterfaces.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFStatusUpdater.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.CredentialManagement.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\log4net.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.DataAccess.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\DocumentFormat.OpenXml.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Common.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Logger.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.Manager.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.WFStatusUpdater.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.CredentialManagement.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\bin\Debug\AMT.DataAccess.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.csprojResolveAssemblyReference.cache
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.AMTMain.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UI.ConnectionManager.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UI.DomainScanner.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UI.ExportDialog.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UI.RealTimeMonitoring.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UI.ReportPreview.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.ReportWindow.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.Properties.Resources.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UI.SettingsManager.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.Splash.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.UserCredentials.resources
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.csproj.GenerateResource.Cache
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.exe
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.WFUI\obj\Debug\AMT.WFUI.pdb

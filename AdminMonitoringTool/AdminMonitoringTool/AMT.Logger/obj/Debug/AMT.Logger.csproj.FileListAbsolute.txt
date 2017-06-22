@@ -1,0 +1,24 @@
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\bin\Debug\AMT.Logger.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\bin\Debug\AMT.Logger.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\obj\Debug\AMT.Logger.csprojResolveAssemblyReference.cache
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\obj\Debug\AMT.Logger.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\obj\Debug\AMT.Logger.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\ClassLibrary1\bin\Debug\log4net.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.Logger\bin\Debug\AMT.Logger.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.Logger\bin\Debug\AMT.Logger.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.Logger\bin\Debug\log4net.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.Logger\obj\Debug\AMT.Logger.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.Logger\obj\Debug\AMT.Logger.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.Logger\bin\Debug\AMT.Logger.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.Logger\bin\Debug\AMT.Logger.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.Logger\bin\Debug\log4net.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.Logger\obj\Debug\AMT.Logger.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.Logger\obj\Debug\AMT.Logger.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.Logger\bin\Debug\AMT.Logger.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.Logger\bin\Debug\AMT.Logger.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.Logger\obj\Debug\AMT.Logger.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.Logger\obj\Debug\AMT.Logger.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Logger\bin\Debug\AMT.Logger.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Logger\bin\Debug\AMT.Logger.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Logger\obj\Debug\AMT.Logger.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.Logger\obj\Debug\AMT.Logger.pdb

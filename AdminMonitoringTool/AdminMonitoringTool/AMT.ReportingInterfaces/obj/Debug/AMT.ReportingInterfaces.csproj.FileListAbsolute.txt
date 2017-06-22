@@ -1,0 +1,16 @@
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Debug\AMT.ReportingInterfaces.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Debug\AMT.ReportingInterfaces.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Debug\AMT.ReportingInterfaces.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Debug\AMT.ReportingInterfaces.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Debug\AMT.ReportingInterfaces.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Debug\AMT.ReportingInterfaces.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Debug\AMT.ReportingInterfaces.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Debug\AMT.ReportingInterfaces.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Debug\AMT.ReportingInterfaces.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Debug\AMT.ReportingInterfaces.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Debug\AMT.ReportingInterfaces.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.ReportingInterfaces\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Debug\AMT.ReportingInterfaces.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.ReportingInterfaces\obj\Debug\AMT.ReportingInterfaces.pdb

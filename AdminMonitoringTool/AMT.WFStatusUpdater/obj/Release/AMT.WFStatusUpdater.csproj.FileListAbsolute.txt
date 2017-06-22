@@ -1,0 +1,4 @@
+F:\Project Reporting\AdminMonitoringTool\AMT.WFStatusUpdater\obj\Release\AMT.WFStatusUpdater.csprojResolveAssemblyReference.cache
+F:\Project Reporting\AdminMonitoringTool\AMT.WFStatusUpdater\obj\Release\AMT.WFStatusUpdater.ProgressDialog.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFStatusUpdater\obj\Release\AMT.WFStatusUpdater.Properties.Resources.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.WFStatusUpdater\obj\Release\AMT.WFStatusUpdater.csproj.GenerateResource.Cache

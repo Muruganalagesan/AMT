@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B3C4BCC1-B627-43F6-9634-923E8D87CB01}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AMT.WFUI</RootNamespace>
+    <AssemblyName>AMT.WFUI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>AMT.WFUI.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\CommonUIInfo.cs" />
+    <Compile Include="UI\ConnectionManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ConnectionManager.Designer.cs">
+      <DependentUpon>ConnectionManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DomainScanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DomainScanner.Designer.cs">
+      <DependentUpon>DomainScanner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ExportDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ExportDialog.Designer.cs">
+      <DependentUpon>ExportDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\RealTimeMonitoring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\RealTimeMonitoring.Designer.cs">
+      <DependentUpon>RealTimeMonitoring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ReportPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ReportPreview.Designer.cs">
+      <DependentUpon>ReportPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SettingsManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SettingsManager.Designer.cs">
+      <DependentUpon>SettingsManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\UserCredentials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\UserCredentials.Designer.cs">
+      <DependentUpon>UserCredentials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AMTMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AMTMain.Designer.cs">
+      <DependentUpon>AMTMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ReportWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ReportWindow.Designer.cs">
+      <DependentUpon>ReportWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validation.cs" />
+    <EmbeddedResource Include="UI\AMTMain.resx">
+      <DependentUpon>AMTMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ConnectionManager.resx">
+      <DependentUpon>ConnectionManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DomainScanner.resx">
+      <DependentUpon>DomainScanner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ExportDialog.resx">
+      <DependentUpon>ExportDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\RealTimeMonitoring.resx">
+      <DependentUpon>RealTimeMonitoring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ReportPreview.resx">
+      <DependentUpon>ReportPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ReportWindow.resx">
+      <DependentUpon>ReportWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\SettingsManager.resx">
+      <DependentUpon>SettingsManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\UserCredentials.resx">
+      <DependentUpon>UserCredentials.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AMT.Common\AMT.Common.csproj">
+      <Project>{da50aaa5-bf54-4a97-9c6b-5ee4e4cf7c7c}</Project>
+      <Name>AMT.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AMT.Logger\AMT.Logger.csproj">
+      <Project>{1278633b-c447-4af4-82bd-97c2c01f969a}</Project>
+      <Name>AMT.Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AMT.Manager\AMT.Manager.csproj">
+      <Project>{cb04263d-9e9f-4206-b342-b40d8ce4d58f}</Project>
+      <Name>AMT.Manager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AMT.ReportingInterfaces\AMT.ReportingInterfaces.csproj">
+      <Project>{35c52d2d-dd8f-4ef1-b714-2b46510a62ab}</Project>
+      <Name>AMT.ReportingInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AMT.WFStatusUpdater\AMT.WFStatusUpdater.csproj">
+      <Project>{0795c7c5-1dbc-42bd-a52e-9ff6dde79a50}</Project>
+      <Name>AMT.WFStatusUpdater</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

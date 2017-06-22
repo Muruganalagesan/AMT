@@ -1,0 +1,10 @@
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\bin\Debug\ProfileTestProject.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\bin\Debug\ProfileTestProject.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\bin\Debug\AMT.CredentialManagement.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\bin\Debug\AMT.Logger.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\bin\Debug\log4net.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\bin\Debug\AMT.CredentialManagement.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\bin\Debug\AMT.Logger.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\obj\Debug\ProfileTestProject.csprojResolveAssemblyReference.cache
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\obj\Debug\ProfileTestProject.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\ProfileTestProject\obj\Debug\ProfileTestProject.pdb

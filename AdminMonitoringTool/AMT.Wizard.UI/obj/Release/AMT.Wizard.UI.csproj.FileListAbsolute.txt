@@ -1,0 +1,9 @@
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\bin\Release\AMT.Wizard.UI.dll
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\obj\Release\AMT.Wizard.UI.ExternalWizardPage.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\obj\Release\AMT.Wizard.UI.InternalWizardPage.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\obj\Release\AMT.Wizard.UI.WizardBanner.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\obj\Release\AMT.Wizard.UI.WizardPage.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\obj\Release\AMT.Wizard.UI.WizardSheet.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\obj\Release\AMT.Wizard.UI.WizardSidebar.resources
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\obj\Release\AMT.Wizard.UI.csproj.GenerateResource.Cache
+F:\Project Reporting\AdminMonitoringTool\AMT.Wizard.UI\obj\Release\AMT.Wizard.UI.dll

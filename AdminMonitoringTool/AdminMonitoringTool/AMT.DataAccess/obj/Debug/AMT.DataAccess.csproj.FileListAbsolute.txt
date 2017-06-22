@@ -1,0 +1,62 @@
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.csprojResolveAssemblyReference.cache
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.DataAccess.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.DataAccess.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Common.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Logger.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.ReportingInterfaces.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.CredentialManagement.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\log4net.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Common.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Logger.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.CredentialManagement.pdb
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.dll
+D:\TigerIsolation\R&D\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.csprojResolveAssemblyReference.cache
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.DataAccess.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.DataAccess.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Common.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Logger.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.ReportingInterfaces.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.CredentialManagement.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\log4net.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Common.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Logger.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.CredentialManagement.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.pdb
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+D:\TigerIsolation\RD\AdminMonitoringTool\AMT.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.csprojResolveAssemblyReference.cache
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.DataAccess.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.DataAccess.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Common.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Logger.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.ReportingInterfaces.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.CredentialManagement.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\log4net.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Common.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Logger.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.ReportingInterfaces.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.CredentialManagement.pdb
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.dll
+F:\Project Reporting\SupporteUtil\SupporteUtil\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.DataAccess.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.DataAccess.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Common.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Logger.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.ReportingInterfaces.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\DocumentFormat.OpenXml.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.CredentialManagement.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\log4net.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Common.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.Logger.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.ReportingInterfaces.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\bin\Debug\AMT.CredentialManagement.pdb
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.csprojResolveAssemblyReference.cache
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.dll
+D:\RADMIN\AdminMonitoringTool\AdminMonitoringTool\AdminMonitoringTool\AMT.DataAccess\obj\Debug\AMT.DataAccess.pdb
