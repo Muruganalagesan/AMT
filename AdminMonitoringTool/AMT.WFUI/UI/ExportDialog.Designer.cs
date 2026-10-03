@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI.UI
 {
-		partial class ExportDialog: System.Object {
+		partial class ExportDialog {
 			public System.Windows.Forms.TextBox txtLocation;
 			private System.Windows.Forms.ToolTip ExportToolTip;
 			private System.Windows.Forms.Button btnBrowse;

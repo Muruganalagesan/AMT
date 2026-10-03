@@ -1,4 +1,4 @@
-﻿using AMT.ReportingInterfaces;
+using AMT.ReportingInterfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Text;
 using System.Data.SqlClient ;
 using AMT.Logger;
 using System.Reflection;
-using System.Data.SqlServerCe;
+using Microsoft.Data.Sqlite;
 using System.IO;
 namespace AMT.DataAccess
 {
@@ -189,9 +189,9 @@ namespace AMT.DataAccess
    }
 
 
-   public class SQlCEReportOperation : ReportOperation
+   public class SqliteReportOperation : ReportOperation
    {
-       SqlCeConnection connection = null;
+       SqliteConnection connection = null;
 
        private String BuildConnectionString ()
        {
@@ -199,9 +199,9 @@ namespace AMT.DataAccess
            String connectionString = String.Empty;
            try
            {
-              // SqlCeConnectionStringBuilder connectionBuilder = new SqlCeConnectionStringBuilder();
+              // SqliteConnectionStringBuilder connectionBuilder = new SqliteConnectionStringBuilder();
 
-               String dbFilepath = Path.Combine(ConnectionInfo.DBPath, ConnectionInfo.DatabaseName + ".sdf");
+               String dbFilepath = Path.Combine(ConnectionInfo.DBPath, ConnectionInfo.DatabaseName + ".db");
                
                connectionString = @"Data Source = " + dbFilepath;
 
@@ -238,7 +238,7 @@ namespace AMT.DataAccess
            Boolean result = false;
            try
            {
-               connection = new SqlCeConnection(BuildConnectionString());
+               connection = new SqliteConnection(BuildConnectionString());
                connection.Open();
                if (connection.State == System.Data.ConnectionState.Open)
                    result = true;
@@ -282,9 +282,9 @@ namespace AMT.DataAccess
            try
            {
 
-               SqlCeCommand command = new SqlCeCommand("Select * from [NetworkList]", connection);
+               SqliteCommand command = new SqliteCommand("Select * from [NetworkList]", connection);
 
-               using (SqlCeDataReader datareader = command.ExecuteReader())
+               using (SqliteDataReader datareader = command.ExecuteReader())
                {
 
                    //if (datareader.HasRows)

@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI
 {
-		partial class Splash: System.Object {
+		partial class Splash {
 			/// <summary>
 			/// Required designer variable.
 			/// </summary>

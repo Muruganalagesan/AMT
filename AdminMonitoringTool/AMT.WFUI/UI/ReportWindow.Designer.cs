@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI
 {
-		partial class ReportWindow: System.Object {
+		partial class ReportWindow {
 			public System.Windows.Forms.DataGridView reportGrid;
 			private System.Windows.Forms.TreeView DomainTreeView;
 			private System.Windows.Forms.ToolStripButton ExportReport;

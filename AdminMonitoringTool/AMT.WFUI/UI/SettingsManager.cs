@@ -1,4 +1,4 @@
-﻿using AMT.Logger;
+using AMT.Logger;
 using AMT.ReportingInterfaces;
 using AMT.WFStatusUpdater;
 using System;
@@ -36,7 +36,7 @@ namespace AMT.WFUI.UI
 
 					if (profileInfo != null)
 					{
-							rdbSQLCE.Checked = profileInfo.DatabaseType == EnumHelper.Databases.SQLServerCE ? true : false;
+							rdbSQLCE.Checked = profileInfo.DatabaseType == EnumHelper.Databases.SQLite ? true : false;
 							rdbSQL.Checked = profileInfo.DatabaseType == EnumHelper.Databases.SQLServer ? true : false;
 
 							rdbSQLAuthentication .Checked =profileInfo.AuthenticationType ==EnumHelper.Authentication.SQLAuthentication ?true :false ;
@@ -144,7 +144,7 @@ namespace AMT.WFUI.UI
 								DBProfileInfo dbprofileInfo = new DBProfileInfo();
 
 								dbprofileInfo.AuthenticationType = rdbSQLAuthentication.Checked ? EnumHelper.Authentication.SQLAuthentication : EnumHelper.Authentication.Windows;
-								dbprofileInfo.DatabaseType = rdbSQLCE.Checked ? EnumHelper.Databases.SQLServerCE : EnumHelper.Databases.SQLServer;
+								dbprofileInfo.DatabaseType = rdbSQLCE.Checked ? EnumHelper.Databases.SQLite : EnumHelper.Databases.SQLServer;
 								dbprofileInfo.ServerName = txtServerName.Text;
 								dbprofileInfo.UserName = txtUserName.Text;
 
@@ -180,7 +180,7 @@ namespace AMT.WFUI.UI
 								DBProfileInfo dbprofileInfo = new DBProfileInfo();
 
 								dbprofileInfo.AuthenticationType = rdbSQLAuthentication.Checked ? EnumHelper.Authentication.SQLAuthentication : EnumHelper.Authentication.Windows;
-								dbprofileInfo.DatabaseType = rdbSQLCE.Checked ? EnumHelper.Databases.SQLServerCE : EnumHelper.Databases.SQLServer;
+								dbprofileInfo.DatabaseType = rdbSQLCE.Checked ? EnumHelper.Databases.SQLite : EnumHelper.Databases.SQLServer;
 								dbprofileInfo.ServerName = txtServerName.Text;
 								dbprofileInfo.UserName = txtUserName.Text;
 

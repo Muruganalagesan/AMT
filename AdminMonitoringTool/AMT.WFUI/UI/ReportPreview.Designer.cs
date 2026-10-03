@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI.UI
 {
-		partial class ReportPreview: System.Object {
+		partial class ReportPreview {
 			private System.Windows.Forms.ToolStripButton PageSetupTSButton;
 			private System.Windows.Forms.WebBrowser PreviewBrowser;
 			private System.Windows.Forms.ToolStripButton PreviewTSButton;

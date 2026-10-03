@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI.UI
 {
-		partial class ConnectionManager: System.Object {
+		partial class ConnectionManager {
 			public System.Windows.Forms.DataGridView ConnectionGrid;
 			private System.Windows.Forms.ToolStripButton AddTSButton;
 			private System.Windows.Forms.ToolStrip ConnectionManagerStrip;

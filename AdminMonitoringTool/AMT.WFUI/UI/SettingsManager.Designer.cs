@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI.UI
 {
-		partial class SettingsManager: System.Object {
+		partial class SettingsManager {
 			public System.Windows.Forms.ToolTip ServerToolTip;
 			private System.Windows.Forms.Button btnCancel;
 			private System.Windows.Forms.Button btnOK;

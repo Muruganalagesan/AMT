@@ -1,8 +1,8 @@
-﻿using AMT.Logger;
+using AMT.Logger;
 using AMT.ReportingInterfaces.WMI;
 using System;
 using System.Collections.Generic;
-using System.Data.SqlServerCe;
+using Microsoft.Data.Sqlite;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -10,12 +10,12 @@ using System.Text;
 
 namespace AMT.DataAccess.DataCollection
 {
-    public class SqlCeReportStorage : DbStorageBase
+    public class SqliteReportStorage : DbStorageBase
     {
 
-         SqlCeConnection connection= new SqlCeConnection ();
+         SqliteConnection connection= new SqliteConnection ();
 
-         public SqlCeReportStorage (WMIConnectionInfo input) : base(input) { }
+         public SqliteReportStorage (WMIConnectionInfo input) : base(input) { }
 
         public override bool DatabaseConnect ()
         {
@@ -23,7 +23,7 @@ namespace AMT.DataAccess.DataCollection
             Boolean result = false;
             try
             {
-                connection = new SqlCeConnection(BuildConnectionString());
+                connection = new SqliteConnection(BuildConnectionString());
                 connection.Open();
                 if (connection.State == System.Data.ConnectionState.Open)
                     result = true;
@@ -75,7 +75,7 @@ namespace AMT.DataAccess.DataCollection
                 {
                     try
                     {
-                        SqlCeCommand cmdIns = new SqlCeCommand(connectionInfo.InsertQuery, connection);
+                        SqliteCommand cmdIns = new SqliteCommand(connectionInfo.InsertQuery, connection);
 
                         foreach (var item in ConnectionInfo.DatabaseFields)
                         {
@@ -88,7 +88,7 @@ namespace AMT.DataAccess.DataCollection
                             if (resultValue.ToString() == "False")
                                 resultValue = "No";
 
-                            cmdIns.Parameters.Add(new SqlCeParameter() { Value = resultValue, ParameterName = item });
+                            cmdIns.Parameters.Add(new SqliteParameter() { Value = resultValue, ParameterName = item });
 
                         }
 
@@ -98,7 +98,7 @@ namespace AMT.DataAccess.DataCollection
                             foreach (var item in ConnectionInfo.CustomFields)
                             {
                                 var resultValue = ReportItem.GetType().GetField(item).GetValue(ReportItem);
-                                cmdIns.Parameters.Add(new SqlCeParameter() { Value = resultValue, ParameterName = item });
+                                cmdIns.Parameters.Add(new SqliteParameter() { Value = resultValue, ParameterName = item });
                             }
                         }
                         cmdIns.ExecuteNonQuery(); 
@@ -132,9 +132,9 @@ namespace AMT.DataAccess.DataCollection
             String connectionString = String.Empty;
             try
             {
-              // SqlCeConnectionStringBuilder connectionBuilder = new SqlCeConnectionStringBuilder();
+              // SqliteConnectionStringBuilder connectionBuilder = new SqliteConnectionStringBuilder();
 
-                String dbFilepath = Path.Combine(DatabaseConnectionDetails.DBPath, DatabaseConnectionDetails.DatabaseName + ".sdf");
+                String dbFilepath = Path.Combine(DatabaseConnectionDetails.DBPath, DatabaseConnectionDetails.DatabaseName + ".db");
 
                 connectionString = @"Data Source = " + dbFilepath;
 

@@ -1,4 +1,4 @@
-﻿using AMT.Common;
+using AMT.Common;
 using AMT.Common.Constants;
 using AMT.Manager.ReportManagers;
 using AMT.ReportingInterfaces;
@@ -86,7 +86,7 @@ namespace AMT.WFUI
             {
                // AuthenticationType = EnumHelper.Authentication.,
                 DatabaseName = "AMTTest",
-                DatabaseType = EnumHelper.Databases.SQLServerCE,
+                DatabaseType = EnumHelper.Databases.SQLite,
 
                
 
@@ -266,7 +266,7 @@ namespace AMT.WFUI
                     {
                         //AuthenticationType = EnumHelper.Authentication.SQLAuthentication,
                         DatabaseName = "AMTTest",
-                        DatabaseType = EnumHelper.Databases.SQLServerCE,
+                        DatabaseType = EnumHelper.Databases.SQLite,
 
                         DBPath =AppDomain.CurrentDomain.BaseDirectory 
                       //  ServerName = "192.168.0.35",
