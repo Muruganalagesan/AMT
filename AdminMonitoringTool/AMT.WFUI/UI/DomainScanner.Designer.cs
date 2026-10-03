@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI.UI
 {
-		partial class DomainScanner: System.Object {
+		partial class DomainScanner {
 			public System.Windows.Forms.CheckedListBox lstServers;
 			private System.Windows.Forms.Button btnCancel;
 			private System.Windows.Forms.Button btnOK;

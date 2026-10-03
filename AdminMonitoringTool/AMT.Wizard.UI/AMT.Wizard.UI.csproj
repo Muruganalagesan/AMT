@@ -8,4 +8,8 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Remove="WelcomeWizardPage.resx" />
+  </ItemGroup>
+
 </Project>

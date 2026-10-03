@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI
 {
-		partial class UserCredentials: System.Object {
+		partial class UserCredentials {
 			private System.Windows.Forms.ToolTip CredentialToolTip;
 			private System.Windows.Forms.Button btnCancel;
 			private System.Windows.Forms.Button btnConnect;

@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI.UI
 {
-		partial class RealTimeMonitoring: System.Object {
+		partial class RealTimeMonitoring {
 			private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
 			private System.Windows.Forms.DataVisualization.Charting.Chart chart2;
 			private System.Windows.Forms.DataVisualization.Charting.Chart chart3;

@@ -1,6 +1,6 @@
 ﻿namespace AMT.WFUI.UI
 {
-		partial class StatusWindow: System.Object {
+		partial class StatusWindow {
 			private System.Windows.Forms.Button btnClose;
 			private System.Windows.Forms.Button btnLogs;
 

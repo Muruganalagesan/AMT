@@ -25,4 +25,9 @@
     <ProjectReference Include="..\AMT.Wizard.UI\AMT.Wizard.UI.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="MDIParent1*.cs;ReportWindow*.cs;Splash*.cs" />
+    <EmbeddedResource Remove="MDIParent1.resx;ReportWindow.resx;Splash.resx" />
+  </ItemGroup>
+
 </Project>

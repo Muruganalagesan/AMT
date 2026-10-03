@@ -14,4 +14,8 @@
     <ProjectReference Include="..\AMT.ReportingInterfaces\AMT.ReportingInterfaces.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EmbeddedResource Remove="WizardBase.resx" />
+  </ItemGroup>
+
 </Project>
