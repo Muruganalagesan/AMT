@@ -16,3 +16,5 @@ jobs:
         run: dotnet restore AdminMonitoringTool/AdminMonitoringTool.Net.sln
       - name: Build
         run: dotnet build AdminMonitoringTool/AdminMonitoringTool.Net.sln --no-restore -c Release
+      - name: Test
+        run: dotnet test AdminMonitoringTool/AdminMonitoringTool.Net.sln --no-build -c Release
