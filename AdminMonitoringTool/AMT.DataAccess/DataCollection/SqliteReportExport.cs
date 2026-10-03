@@ -1,10 +1,10 @@
-﻿using AMT.DataAccess.Export;
+using AMT.DataAccess.Export;
 using AMT.DataAccess.Factory;
 using AMT.Logger;
 using AMT.ReportingInterfaces.Export;
 using System;
 using System.Collections.Generic;
-using System.Data.SqlServerCe;
+using Microsoft.Data.Sqlite;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -12,10 +12,10 @@ using System.Text;
 
 namespace AMT.DataAccess.DataCollection
 {
-   public  class SqlCeReportExport : DBExportBase
+   public  class SqliteReportExport : DBExportBase
     {
-        SqlCeConnection connection = new SqlCeConnection();
-        public SqlCeReportExport (ExportInfo input) : base(input) { }
+        SqliteConnection connection = new SqliteConnection();
+        public SqliteReportExport (ExportInfo input) : base(input) { }
 
 
         ExportBase objExportbase = null;
@@ -29,7 +29,7 @@ namespace AMT.DataAccess.DataCollection
             Boolean result = false;
             try
             {
-                connection = new SqlCeConnection(BuildConnectionString());
+                connection = new SqliteConnection(BuildConnectionString());
                 connection.Open();
                 if (connection.State == System.Data.ConnectionState.Open)
                     result = true;
@@ -75,7 +75,7 @@ namespace AMT.DataAccess.DataCollection
                 
                 
 
-                String dbFilepath = Path.Combine(ReportExportInfo.MachineInfo.MachineConnectionInfo.DatabaseConnectionInfo.DBPath, ReportExportInfo.MachineInfo.MachineConnectionInfo.DatabaseConnectionInfo.DatabaseName + ".sdf");
+                String dbFilepath = Path.Combine(ReportExportInfo.MachineInfo.MachineConnectionInfo.DatabaseConnectionInfo.DBPath, ReportExportInfo.MachineInfo.MachineConnectionInfo.DatabaseConnectionInfo.DatabaseName + ".db");
 
                 connectionString = @"Data Source = " + dbFilepath;
 
@@ -126,9 +126,9 @@ namespace AMT.DataAccess.DataCollection
 
                
 
-                SqlCeCommand command= new SqlCeCommand(base.ReportExportInfo.MachineInfo.MachineConnectionInfo.TableQuery ,connection );
+                SqliteCommand command= new SqliteCommand(base.ReportExportInfo.MachineInfo.MachineConnectionInfo.TableQuery ,connection );
 
-                using (SqlCeDataReader datareader = command.ExecuteReader())
+                using (SqliteDataReader datareader = command.ExecuteReader())
                 {
                     while (datareader.Read())
                     {

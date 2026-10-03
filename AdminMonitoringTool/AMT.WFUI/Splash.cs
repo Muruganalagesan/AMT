@@ -1,4 +1,4 @@
-﻿using AMT.ReportingInterfaces;
+using AMT.ReportingInterfaces;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -22,7 +22,7 @@ namespace AMT.WFUI
         {
             try
             {
-                new AMT.Manager.InitailizeApp().CreateDatabases(new DBConnectionInfo() { DatabaseType = EnumHelper.Databases.SQLServerCE, DatabaseName = "AMTTest",DBPath=AppDomain.CurrentDomain.BaseDirectory  });
+                new AMT.Manager.InitailizeApp().CreateDatabases(new DBConnectionInfo() { DatabaseType = EnumHelper.Databases.SQLite, DatabaseName = "AMTTest",DBPath=AppDomain.CurrentDomain.BaseDirectory  });
 
                 //new AMT.Manager.InitailizeApp().CreateDatabases(new DBConnectionInfo()
                 //{

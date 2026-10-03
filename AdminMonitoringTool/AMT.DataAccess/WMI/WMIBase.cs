@@ -1,4 +1,4 @@
-﻿using AMT.Logger;
+using AMT.Logger;
 using AMT.ReportingInterfaces;
 using AMT.ReportingInterfaces.Export;
 using AMT.ReportingInterfaces.WMI;
@@ -166,9 +166,9 @@ namespace AMT.DataAccess.WMI
                dbOperationBase = new DataCollection.SqlReportStorage(this.InputConnectionInfo);
            }
 
-           else if (InputConnectionInfo.DatabaseConnectionInfo.DatabaseType == EnumHelper.Databases.SQLServerCE)
+           else if (InputConnectionInfo.DatabaseConnectionInfo.DatabaseType == EnumHelper.Databases.SQLite)
            {
-               dbOperationBase = new DataCollection.SqlCeReportStorage(this.InputConnectionInfo);
+               dbOperationBase = new DataCollection.SqliteReportStorage(this.InputConnectionInfo);
            }
 
            dbOperationBase.DatabaseConnectionDetails = this.InputConnectionInfo.DatabaseConnectionInfo;
@@ -215,9 +215,9 @@ namespace AMT.DataAccess.WMI
                    dbExportBase = new DataCollection.SqlReportExport(ExportInfo);
                }
 
-               else if (InputConnectionInfo.DatabaseConnectionInfo.DatabaseType == EnumHelper.Databases.SQLServerCE)
+               else if (InputConnectionInfo.DatabaseConnectionInfo.DatabaseType == EnumHelper.Databases.SQLite)
                {
-                   dbExportBase = new DataCollection.SqlCeReportExport(ExportInfo);
+                   dbExportBase = new DataCollection.SqliteReportExport(ExportInfo);
                }
 
                //dbExportBase.exportInfo = ExportInfo;

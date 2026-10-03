@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,7 +22,8 @@ namespace AMT.ReportingInterfaces
        public enum Databases
        {
            SQLServer=0,
-           SQLServerCE=1
+           [System.Xml.Serialization.XmlEnum("SQLServerCE")]
+           SQLite=1
        }
 
        public enum WMIReportCategory

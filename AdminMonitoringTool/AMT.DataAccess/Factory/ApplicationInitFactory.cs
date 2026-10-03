@@ -1,4 +1,4 @@
-﻿using AMT.Logger;
+using AMT.Logger;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,8 +23,8 @@ namespace AMT.DataAccess
 
                if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLServer)
                    databaseCreate = new SQLDBCreation();
-               else if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLServerCE)
-                   databaseCreate = new SqlCeDBCreation();
+               else if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLite)
+                   databaseCreate = new SqliteDBCreation();
 
                databaseCreate.CreateApplicationDatabase(dbServerDetails);
             
@@ -55,8 +55,8 @@ namespace AMT.DataAccess
 
                if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLServer)
                    databaseCreate = new SQLDBCreation();
-               else if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLServerCE)
-                   databaseCreate = new SqlCeDBCreation();
+               else if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLite)
+                   databaseCreate = new SqliteDBCreation();
 
             result =   databaseCreate.CheckDatabaseConnection(dbServerDetails);
 
@@ -86,8 +86,8 @@ namespace AMT.DataAccess
            {
                if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLServer)
                    reportOperation = new SQlReportOperation ();
-               else if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLServerCE)
-                   reportOperation = new SQlCEReportOperation();
+               else if (dbServerDetails.DatabaseType == EnumHelper.Databases.SQLite)
+                   reportOperation = new SqliteReportOperation();
 
              result=  reportOperation.InitReportWindow(dbServerDetails);
 
